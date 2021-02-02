@@ -31,7 +31,7 @@
 | SPI, EINK           | GDEH029Z92    | 2.9   | B/W/R         |           | 296 x 128   | [SSD1680][ssd1680]        |
 | SPI, EINK           | GDEH037Z01    | 3.7   | B/W/R         |           | 416 x 240   | [UC8171c][uc8176c]        |
 | SPI, EINK           | GDEH042Z21    | 4.2   | B/W           |           | 400 x 300   | [UC8276c][uc8276c]        |
-| SPI, EINK           | GDEH042Z96    | 4.2   | B/W/R         |           | 400 x 300   | [SSD1619][ssd1619]        |
+| SPI, EINK           | GDEH042Z96    | 4.2   | B/W/R         |           | 400 x 300   | [SSD1619A][ssd1619a]      |
 | SPI, EINK           | GDEH075T90    | 7.5   | B/W/R         |           | 880 x 528   | [SSD1677][ssd1677]        |
 | SPI, EINK           | GDEH075Z90    | 7.5   | B/W/R         |           | 880 x 528   | [SSD1677][ssd1677]        |
 | SPI, EINK           | GDEH075Z90R   | 7.5   | B/W/R         |           | 880 x 528   | [SSD1677][ssd1677]        |
@@ -81,7 +81,7 @@
 | SPI, EINK           | GDEW0583T7    | 5.83  | B/W           |           | 600 x 448   | [IL0371][il0371]          |
 | SPI, EINK           | GDEW0583T8    | 5.83  | B/W/R         |           | 600 x 448   | [UC8179c][uc8179c]        |
 | SPI, EINK           | GDEW0583Z21   | 5.83  | B/W/R         |           | 600 x 448   | [IL0371][il0371]          |
-| SPI, EINK           | GDEW0583Z83   | 5.83  | B/W/R         |           | 648 x 480   | [SSD1619][ssd1619]        |
+| SPI, EINK           | GDEW0583Z83   | 5.83  | B/W/R         |           | 648 x 480   | [SSD1619A][ssd1619a]      |
 | SPI, EINK           | GDEW075C21    | 7.5   | B/W/Y         |           | 800 x 480   | [UC8179c][uc8179c]        |
 | SPI, EINK           | GDEW075C64    | 7.5   | B/W/Y         |           | 800 x 480   | [UC8179c][uc8179c]        |
 | SPI, EINK           | GDEW075T7     | 7.5   | B/W           | 2bpp      | 800 x 480   | [UC8179c][uc8179c]        |
@@ -117,7 +117,7 @@ from <https://good-display.com>
 [jd79632a]: https://cursedhardware.github.io/epd-driver-ic/JD79632A.pdf
 [jd79653a]: https://cursedhardware.github.io/epd-driver-ic/JD79653A.pdf
 [ssd1608]: https://cursedhardware.github.io/epd-driver-ic/SSD1608.pdf
-[ssd1619]: https://cursedhardware.github.io/epd-driver-ic/SSD1619A.pdf
+[ssd1619a]: https://cursedhardware.github.io/epd-driver-ic/SSD1619A.pdf
 [ssd1675a]: https://cursedhardware.github.io/epd-driver-ic/SSD1675A.pdf
 [ssd1675b]: https://cursedhardware.github.io/epd-driver-ic/SSD1675B.pdf
 [ssd1677]: https://cursedhardware.github.io/epd-driver-ic/SSD1677.pdf
