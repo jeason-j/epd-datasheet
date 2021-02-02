@@ -38,7 +38,7 @@ from <https://www.trs-star.com/produkte/displays/display-details/e-paper-display
 
 [il3895]: https://cursedhardware.github.io/epd-driver-ic/IL3895.pdf
 [ssd1608]: https://cursedhardware.github.io/epd-driver-ic/SSD1608.pdf
-[ssd1619a]: https://cursedhardware.github.io/epd-driver-ic/SSD1619AA.pdf
+[ssd1619a]: https://cursedhardware.github.io/epd-driver-ic/SSD1619A.pdf
 [ssd1673a]: https://cursedhardware.github.io/epd-driver-ic/SSD1673A.pdf
 [ssd1675b]: https://cursedhardware.github.io/epd-driver-ic/SSD1675B.pdf
 [uc8151c]: https://cursedhardware.github.io/epd-driver-ic/UC8151c.pdf
