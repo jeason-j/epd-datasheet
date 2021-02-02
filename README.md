@@ -60,4 +60,4 @@
 
 ## LICENSE
 
-[CC-0](LICENSE) without OEM/ODM datasheet files
+[CC-0](LICENSE)
