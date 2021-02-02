@@ -24,12 +24,12 @@
 | HINK-E029A13     | 2.9  | B/W           | 296 x 128  | [UC8151c][uc8151c] |
 | HINK-E042A03     | 4.2  | B/W           | 400 x 300  | [SSD1608][ssd1608] |
 | HINK-E042A07     | 4.2  | B/W/R         | 400 x 300  | [SSD1619][ssd1619] |
-| HINK-E042A08     | 4.2  | B/W/R         | 400 x 300  | [UC8176][uc8176]   |
+| HINK-E042A08     | 4.2  | B/W/R         | 400 x 300  | [UC8176c][uc8176c] |
 | HINK-E042A09     | 4.2  | B/W           | 400 x 300  | [SSD1619][ssd1619] |
-| HINK-E042A10     | 4.2  | B/W           | 400 x 300  | [UC8176][uc8176]   |
+| HINK-E042A10     | 4.2  | B/W           | 400 x 300  | [UC8176c][uc8176c] |
 | HINK-E042A13     | 4.2  | B/W/R         | 400 x 300  | [SSD1619][ssd1619] |
-| HINK-E075A01     | 7.5  | B/W/R         | 640 x 384  | [UC8159][uc8159]   |
-| HINK-E075A02     | 7.5  | B/W           | 640 x 384  | [UC8159][uc8159]   |
+| HINK-E075A01     | 7.5  | B/W/R         | 640 x 384  | [UC8159c][uc8159c] |
+| HINK-E075A02     | 7.5  | B/W           | 640 x 384  | [UC8159c][uc8159c] |
 
 \* Low temperature
 
@@ -42,5 +42,5 @@ from <https://www.trs-star.com/produkte/displays/display-details/e-paper-display
 [ssd1673]: https://cursedhardware.github.io/epd-driver-ic/SSD1673.pdf
 [ssd1675]: https://cursedhardware.github.io/epd-driver-ic/SSD1675B.pdf
 [uc8151c]: https://cursedhardware.github.io/epd-driver-ic/UC8151c.pdf
-[uc8159]: https://cursedhardware.github.io/epd-driver-ic/UC8159.pdf
-[uc8176]: https://cursedhardware.github.io/epd-driver-ic/UC8176.pdf
+[uc8159c]: https://cursedhardware.github.io/epd-driver-ic/UC8159c.pdf
+[uc8176c]: https://cursedhardware.github.io/epd-driver-ic/UC8176c.pdf
