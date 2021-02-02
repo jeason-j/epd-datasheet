@@ -6,7 +6,6 @@
 - [General PINOUT Definition](PINOUT.md)
 - [Hanshow](https://cursedhardware.github.io/hanshow/)
 - [List of Driver IC](https://cursedhardware.github.io/epd-driver-ic/)
-- [References](references.md)
 - <https://aka.pw/epd-datasheet>
 
 ## Providers
