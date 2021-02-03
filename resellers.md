@@ -1,6 +1,7 @@
 # List of Reseller
 
 - 微雪旗舰店
+  <br><https://shop34659993.taobao.com>
   <br><https://shop442244005.taobao.com>
 
 - 大连奇耘电子有限公司
