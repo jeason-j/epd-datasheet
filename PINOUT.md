@@ -102,18 +102,10 @@ The panel break detection function is used to detect the breakage at panel edge.
 
 While shorting `RESE` and resistor, this model is suitable for the following E-Paper displays:
 
-| Screen |     Resistor | Model                   |
-| -----: | -----------: | ----------------------- |
-|  1.54" | 0.47 &Omega; | GDEW0154T8              |
-|  1.54" | 3.00 &Omega; | GDEP015OC1, GDEW0154Z04 |
-|  2.04" | 0.47 &Omega; | GDEW0213Z16             |
-|  2.04" | 3.00 &Omega; | GDE021A1                |
-|  2.13" | 0.47 &Omega; | GDEW027W3, GDEW027C44   |
-|  2.13" | 3.00 &Omega; | GDEW0213B1              |
-|  2.90" | 0.47 &Omega; | GDEW029T5, GDEW029Z10   |
-|  2.90" | 3.00 &Omega; | GDEH029A1               |
-|  7.50" | 0.47 &Omega; | GDEW042T2, GDEW042Z15   |
-|  7.50" | 3.00 &Omega; | GDEW075T8, GDEW075Z09   |
+| Resistor     | Driver IC Provided |
+| ------------ | ------------------ |
+| 0.47 &Omega; | Solomon Systech    |
+| 3.00 &Omega; | Ultra Chip         |
 
 References:
 
